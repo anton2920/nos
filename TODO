@@ -1,0 +1,12 @@
+Grand design:
+
+	- Something that boots on 8086, 80286, 80386 and AMD Opteron and uses its modern features.
+	- Implement several games (sokoban, snake, pong) + PC speaker + Sound Blaster.
+	- Implement filesystem, maybe FAT12.
+	- It should fit to 3.5'' 1.44M floppy diskette.
+
+Plan:
+
+- 8086 era:
+	- Boot and print "Hello, world!".
+	- 
