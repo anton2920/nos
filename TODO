@@ -8,5 +8,9 @@ Grand design:
 Plan:
 
 - 8086 era:
-	- Boot and print "Hello, world!".
-	- 
+	- [x] Boot and print "Hello, world!".
+	- [ ] Load more sectors from floppy.
+	- [ ] Do something interesting.
+
+- 80286 era - not to soon!:
+	- [ ] 
