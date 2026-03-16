@@ -9,6 +9,9 @@ Plan:
 
 - 8086 era:
 	- [x] Boot and print "Hello, world!".
+	- [x] Launch in 86Box.
+	- [?] Add C language.
+	- [ ] Handle keyboard input.
 	- [ ] Load more sectors from floppy.
 	- [ ] Do something interesting.
 
